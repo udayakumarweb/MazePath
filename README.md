@@ -34,9 +34,10 @@ Assumptions:
 3.Contains only “#”, “.”, “A” and “B” characters
 4.Only one start and end point
 5.Contains at least one valid path
-6.Always copy maze from notepad (To aviod extra characters).
+6.Always copy maze from notepad (To aviod extra characters)
 
 Note:
+Copy output to notepad to verify solved maze.
 All validations are not implemented (Few are implemented).
 Output "Solution" returned as string. Other option, it can be returned as array of strings (Each row as one array element).
-Client page is developed to test the service and logic, not focused on style sheets (As per phone conversation, only solution for problem was requested)
+Client page is developed to test the service and logic, not focused on style sheets (As per phone conversation, only solution for problem was requested).
